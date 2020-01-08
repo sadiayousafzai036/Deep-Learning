@@ -1,0 +1,63 @@
+images/_105342507_gettyimages-1007127154.png,81,26,138,81,Human Graffiti
+images/_105342507_gettyimages-1007127154.png,30,40,0,77,Human Graffiti
+images/1_oSLe_-OT15oyvVXd8UQrNA.png,66,19,105,59,Human Graffiti
+images/1_oSLe_-OT15oyvVXd8UQrNA.png,105,1,141,58,Human Graffiti
+images/1_oSLe_-OT15oyvVXd8UQrNA.png,141,0,198,59,Human Graffiti
+images/_103772760__dsc3964.png,19,2,192,104,Human Graffiti
+neg_images/0_street_views_-_lower_granton_road_graffiti_cat_144883.png,19,14,157,105,bg
+neg_images/0e010585-3dfa-4c01-b91f-5560b2ace3b0-0e0105853dfa4c01b91f5560b2ace3b0rendition_1_Joel_WebBio2018.png,18,23,128,138,bg
+neg_images/_106336557_img_2524.png,23,41,179,75,bg
+flipped_images/img401.png,62,26,119,81,Human Graffiti
+flipped_images/img401.png,140,40,230,77,Human Graffiti
+flipped_images/img402.png,95,19,134,59,Human Graffiti
+flipped_images/img402.png,59,1,95,58,Human Graffiti
+flipped_images/img402.png,2,0,59,59,Human Graffiti
+flipped_images/img403.png,8,2,181,104,Human Graffiti
+flipped_images/img404.png,43,14,181,105,bg
+flipped_images/img405.png,22,23,132,138,bg
+flipped_images/img406.png,21,41,177,75,bg
+flip_scaled_images/img425.png,67,26,129,81,Human Graffiti
+flip_scaled_images/img425.png,152,40,201,77,Human Graffiti
+flip_scaled_images/img426.png,84,14,119,45,Human Graffiti
+flip_scaled_images/img426.png,52,0,84,44,Human Graffiti
+flip_scaled_images/img426.png,1,0,52,45,Human Graffiti
+flip_scaled_images/img427.png,6,1,158,82,Human Graffiti
+flip_scaled_images/img428.png,53,14,201,109,bg
+flip_scaled_images/img429.png,27,28,151,170,bg
+flip_scaled_images/img430.png,25,33,201,60,bg
+flip_translated_images/img431.png,56,50,113,105,Human Graffiti
+flip_translated_images/img431.png,134,64,200,101,Human Graffiti
+flip_translated_images/img432.png,113,2,152,42,Human Graffiti
+flip_translated_images/img432.png,77,0,113,41,Human Graffiti
+flip_translated_images/img432.png,20,0,77,42,Human Graffiti
+flip_translated_images/img433.png,0,0,160,82,Human Graffiti
+flip_translated_images/img434.png,100,0,200,75,bg
+flip_translated_images/img435.png,5,36,115,151,bg
+flip_translated_images/img436.png,17,25,173,59,bg
+rotated_images/img413.png,80,31,140,83,Human Graffiti
+rotated_images/img413.png,6,33,39,67,Human Graffiti
+rotated_images/img414.png,65,19,106,57,Human Graffiti
+rotated_images/img414.png,103,2,141,54,Human Graffiti
+rotated_images/img414.png,139,0,198,54,Human Graffiti
+rotated_images/img415.png,18,2,192,104,Human Graffiti
+rotated_images/img416.png,19,13,158,103,bg
+rotated_images/img417.png,21,22,128,140,bg
+rotated_images/img418.png,23,40,178,76,bg
+scaled_images/img407.png,81,28,139,88,Human Graffiti
+scaled_images/img407.png,30,43,0,84,Human Graffiti
+scaled_images/img408.png,56,17,90,55,Human Graffiti
+scaled_images/img408.png,90,0,121,54,Human Graffiti
+scaled_images/img408.png,121,0,170,55,Human Graffiti
+scaled_images/img409.png,18,1,182,94,Human Graffiti
+scaled_images/img410.png,16,14,140,110,bg
+scaled_images/img411.png,19,20,139,121,bg
+scaled_images/img412.png,25,38,201,71,bg
+sheared_images/img419.png,80,26,145,81,Human Graffiti
+sheared_images/img419.png,5,40,85,77,Human Graffiti
+sheared_images/img420.png,58,19,109,59,Human Graffiti
+sheared_images/img420.png,93,1,147,58,Human Graffiti
+sheared_images/img420.png,124,0,197,59,Human Graffiti
+sheared_images/img421.png,18,2,193,104,Human Graffiti
+sheared_images/img422.png,19,14,158,105,bg
+sheared_images/img423.png,17,23,118,138,bg
+sheared_images/img424.png,34,41,170,75,bg
